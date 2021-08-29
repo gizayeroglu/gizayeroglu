@@ -1,6 +1,6 @@
 ### Hi there  👋
 
-My name is Gizay Eroğlu and I'm a fresh graduate software engineer. I'm from Turkey, living in Izmir, and currently working to improve my skills in front-end development. You can find me on  [![LinkedIn][3.2]][3].
+My name is Gizay Eroğlu and I'm a fresh graduate software engineer. I'm from Turkey, living in Izmir, and currently working to improve my skills in front-end development. You can find me on  <a href="https://www.linkedin.com/in/gizayeroglu/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="15" height="15"/> </a> 
 
 📫 Mail me: **gizayeroglu1@gmail.com**
 
@@ -40,12 +40,7 @@ My name is Gizay Eroğlu and I'm a fresh graduate software engineer. I'm from Tu
 <details>
   <summary> Most Used Languages</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gizayeroglu&layout=compact)](https://github.com/gizayeroglu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gizayeroglu&layout=compact&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/gizayeroglu/github-readme-stats)
 
 </details>
 
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-<!-- links to social media accounts -->
-[2]: https://github.com/gizayeroglu
-[3]: https://www.linkedin.com/in/gizayeroglu/
