@@ -1,6 +1,6 @@
 ### Hi there  👋
 
-My name is Gizay Eroğlu and I'm a fresh graduate software engineer. I'm from Turkey, living in Izmir, and currently working to improve my skills in front-end development. You can find me on  <a href="https://www.linkedin.com/in/gizayeroglu/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="15" height="15"/> </a> 
+You can find me on  <a href="https://www.linkedin.com/in/gizayeroglu/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedIn" width="15" height="15"/> </a> 
 
 📫 Mail me: **gizayeroglu1@gmail.com**
 
